@@ -1,0 +1,41 @@
+.nav {
+    background-color: black;
+    color: white;
+    padding: 10px 112px;
+    text-decoration: none;
+    display:flex ;
+    justify-content: center;
+
+  }
+.nav:hover{
+    background-color: white;
+    color: black;
+
+}
+.nav1 {
+    background-color: black;
+    color: white;
+    padding: 10px 110px;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+
+  }
+.nav1:hover{
+    background-color: white;
+    color: black;
+
+}
+aside{
+  float: left;
+  width: 25%;
+  min-height: 200px;
+}
+body{
+  background: url(fondo.jpg) no-repeat fixed;
+  background-size: 100% auto, 100%;
+}
+mark{
+  color:white;
+  background-color: black;
+}
